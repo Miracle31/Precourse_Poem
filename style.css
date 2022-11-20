@@ -1,0 +1,19 @@
+h1 {
+  color: 	#0000ff;
+  background-color: #e9ecde;
+  /* Opacity determines the visibiloty of an element */
+  opacity: 0.5;
+}
+h3 {
+  color: 	#0000ff;
+  background-color: #e9ecde;
+  /* Opacity determines the visibiloty of an element */
+  opacity: 0.5;
+}
+
+body {
+ 
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+}
